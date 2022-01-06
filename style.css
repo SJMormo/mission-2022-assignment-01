@@ -173,6 +173,9 @@ input {
 ul {
     margin-top: 5%;
     margin-bottom: 5%;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
 }
 
 li {
