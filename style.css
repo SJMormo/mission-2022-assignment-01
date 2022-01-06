@@ -11,6 +11,10 @@ body {
     padding-right: 8%;
 }
 
+.orange-color {
+    color: orange;
+}
+
 .flexible-items {
     display: flex;
 }
@@ -25,26 +29,29 @@ body {
     padding-top: 6%;
 }
 
+.left-border-color {
+    border-left: 4px solid red;
+}
+
 .button {
     text-decoration: none;
     color: white;
-    background-color: red;
-    padding: 10px 18px;
-    border-radius: 6%;
+    background-image: linear-gradient(tomato, red);
+    padding: 15px 25px;   
+    border-radius: 7px;
+    font-size: 20px;
+    font-weight: 600;
 }
 
-.left-border-color {
-    border-left: 4px solid red;
-    
+.button-section {
+    padding-top: 3%;
+    padding-bottom: 3%;
 }
 
 .top-section h1 {
     font-size: 60px;
     padding-left: 2%;
-}
-
-.orange-color {
-    color: orange;
+    line-height: 35%;
 }
 
 p {
@@ -60,6 +67,7 @@ p {
 .some-h1-tags {
     font-size: 30px;
     font-weight: 800;
+    line-height: 35%;
 }
 
 .card-item img {
