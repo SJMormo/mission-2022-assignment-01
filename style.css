@@ -71,9 +71,10 @@ p {
 }
 
 .some-h1-tags {
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 800;
     line-height: 35%;
+    text-align: center;
 }
 
 .card-item img {
@@ -168,5 +169,17 @@ input {
     font-weight: 600;
     font-size: 1.3em;
     padding-top: 5%;
+}
+
+ul {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+li {
+    display: inline;
+    margin: 5%;
+    font-size: 30px;
+    font-weight: 450;
 }
 
